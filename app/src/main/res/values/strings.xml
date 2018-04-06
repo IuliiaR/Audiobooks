@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Audiobooks</string>
+
+    <string name="stub_description"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum dui massa.
+        Fusce libero sem, elementum a lorem eget, tempor eleifend felis. Morbi sodales scelerisque mollis.
+        Donec nec magna suscipit, convallis eros ac, auctor est. Nulla vel urna sed ex egestas malesuada eget in sem.
+        Suspendisse ut nisi ut tortor luctus dignissim a ac ex. Morbi nisi ante, pretium eget tincidunt ac, consectetur vel magna.
+        Morbi rutrum mauris in venenatis porta. Aliquam id fringilla risus, non semper lectus. Mauris finibus velit vitae dolor luctus lacinia.
+        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer ut tristique augue.
+        Vestibulum quis pharetra mi. Ut eget vestibulum enim. Praesent at velit nunc.]]></string>
+    <string name="book_cover_description">book cover</string>
+    <string name="summary">Summary</string>
+    <string name="now_playing_message">Book is playing</string>
+
+    <!-- Books stub -->
+    <!-- Stephen Hawking Black holes and baby universes -->
+    <string-array name="Black_holes_and_baby_universes">
+        <item>Black holes and baby universes</item>
+        <item>Stephen Hawking</item>
+        <item>Julia R.</item>
+        <item>1999</item>
+        <item>4:30:00</item>
+        <item><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean elementum dui massa.
+        Fusce libero sem, elementum a lorem eget, tempor eleifend felis. Morbi sodales scelerisque mollis.
+        Donec nec magna suscipit, convallis eros ac, auctor est. Nulla vel urna sed ex egestas malesuada eget in sem.
+        Suspendisse ut nisi ut tortor luctus dignissim a ac ex. Morbi nisi ante, pretium eget tincidunt ac, consectetur vel magna.
+        Morbi rutrum mauris in venenatis porta. Aliquam id fringilla risus, non semper lectus. Mauris finibus velit vitae dolor luctus lacinia.
+        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer ut tristique augue.
+        Vestibulum quis pharetra mi. Ut eget vestibulum enim. Praesent at velit nunc.]]></item>
+    </string-array>
+</resources>
